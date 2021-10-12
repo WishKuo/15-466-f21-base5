@@ -1,8 +1,9 @@
-# (TODO: your game's title)
+# Explore -- walking simulator
 
-Author: (TODO: your name)
+Author: Wish Kuo
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: 
+Walk and explore the world.
 
 Screen Shot:
 
@@ -10,9 +11,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use W/A/S/D to move around along the path. 
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: models in the base code scenes.
 
 This game was built with [NEST](NEST.md).
 
